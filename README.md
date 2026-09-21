@@ -15,7 +15,7 @@ its placed components, page links, locale switcher and page background.
 ## 2. Bring it into your own app
 
 ```sh
-npm install framercode react@19 react-dom@19
+npm install framercode react@19 react-dom@1
 ```
 
 Then render `src/App.tsx` from your entry or import the individual
